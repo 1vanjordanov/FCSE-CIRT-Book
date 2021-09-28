@@ -1,8 +1,9 @@
 # About
 
 Internship project | *Spam detection using Deep learning*
-- **Teacher**: PhD. Sonja Filipovska
-- **Intern**: Ivan Jordanov
+<br>
+<br> **Teacher**: PhD. Sonja Filipovska
+<br> **Intern**: Ivan Jordanov
 
 
 This Jupyter-book describes the processing of spam detection using Deep learning. <br>
