@@ -1,0 +1,11 @@
+- file: index
+  
+- part: "Notebook"
+  chapters:
+  - file: 01/deep_spam_detection
+    title: "SPAM detection - MKD" 
+
+- part: "Resources"
+  chapters:
+  - url: https://github.com/1vanjordanov/FCSE-CIRT-Book
+    title: "GitHub repository" 
